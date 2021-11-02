@@ -6,7 +6,7 @@ Learn how to read flowcharts to hone your understanding of loops, conditions, an
 Link to the project [Honest Calculator](https://hyperskill.org/projects/208).
 
 ## Demo
-WIP
+
 
 ## Stages
 **Stage 1/5: Data Collection**\
