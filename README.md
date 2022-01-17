@@ -5,6 +5,8 @@ Learn how to read flowcharts to hone your understanding of loops, conditions, an
 
 Link to the project [Honest Calculator](https://hyperskill.org/projects/208).
 
+Link to all of [my Hyperskill projects](https://github.com/ana117/hyperskilll-projects).
+
 ## Demo
 
 
